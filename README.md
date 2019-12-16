@@ -2,7 +2,8 @@
 <br />
 # Linear Algebra
 Used in machine learning (& deep learning) to understand how algorithms work under the hood. Basically, it’s all about vector/matrix/tensor operations, no black magic is involved!
-
+<br />
+<br />
 [Khan Academy Linear Algebra series (beginner friendly).](https://www.khanacademy.org/math/linear-algebra)<br />
 [Coding the Matrix course (and book).](http://codingthematrix.com/)<br />
 [3Blue1Brown Linear Algebra series.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&fbclid=IwAR0aMT4mHp-BAy5viaJyggcQqgBCTbP0VVm3ZaiGTDeyGKHn7cK_Hi-LpFA)<br />
