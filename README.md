@@ -1,4 +1,4 @@
-# Kumpulan course menarik menurutku
+# Kumpulan course, link dan buku menarik menurutku
 <br />
 # Linear Algebra
 <br />
@@ -11,6 +11,7 @@
 [“Introduction to Applied Linear Algebra — Vectors, Matrices, and Least Squares” book.](https://web.stanford.edu/~boyd/vmls/)
 [MIT Linear Algebra course, highly comprehensive.](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)<br />
 [Stanford CS229 Linear Algebra review.](http://cs229.stanford.edu/section/cs229-linalg.pdf)<br />
+[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 # Calculus
 <br /><br />
