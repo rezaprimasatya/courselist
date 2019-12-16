@@ -1,18 +1,16 @@
 # courselist
 
-[Lets go to Quora](https://www.quora.com)
-
 # Linear Algebra
 Used in machine learning (& deep learning) to understand how algorithms work under the hood. Basically, it’s all about vector/matrix/tensor operations, no black magic is involved!
 
-Khan Academy Linear Algebra series (beginner friendly).
-Coding the Matrix course (and book).
-3Blue1Brown Linear Algebra series.
-fast.ai Linear Algebra for coders course, highly related to modern ML workflow.
-First course in Coursera Mathematics for Machine Learning specialization.
-“Introduction to Applied Linear Algebra — Vectors, Matrices, and Least Squares” book.
-MIT Linear Algebra course, highly comprehensive.
-Stanford CS229 Linear Algebra review.
+[Khan Academy Linear Algebra series (beginner friendly).](https://www.khanacademy.org/math/linear-algebra)
+[Coding the Matrix course (and book).](http://codingthematrix.com/)
+[3Blue1Brown Linear Algebra series.](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&fbclid=IwAR0aMT4mHp-BAy5viaJyggcQqgBCTbP0VVm3ZaiGTDeyGKHn7cK_Hi-LpFA)
+[fast.ai Linear Algebra for coders course, highly related to modern ML workflow.](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+[First course in Coursera Mathematics for Machine Learning specialization.](https://www.coursera.org/specializations/mathematics-machine-learning)
+[“Introduction to Applied Linear Algebra — Vectors, Matrices, and Least Squares” book.](https://web.stanford.edu/~boyd/vmls/)
+[MIT Linear Algebra course, highly comprehensive.](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
+[Stanford CS229 Linear Algebra review.](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 
 # Calculus
 Used in machine learning (&deep learning) to formulate the functions used to train algorithms to reach their objective, known by loss/cost/objective functions.
