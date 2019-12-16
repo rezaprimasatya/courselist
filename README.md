@@ -1,7 +1,6 @@
-# courselist
+# Kumpulan course menarik menurutku
 <br />
 # Linear Algebra
-Used in machine learning (& deep learning) to understand how algorithms work under the hood. Basically, it’s all about vector/matrix/tensor operations, no black magic is involved!
 <br />
 <br />
 [Khan Academy Linear Algebra series (beginner friendly).](https://www.khanacademy.org/math/linear-algebra)<br />
@@ -14,25 +13,25 @@ Used in machine learning (& deep learning) to understand how algorithms work und
 [Stanford CS229 Linear Algebra review.](http://cs229.stanford.edu/section/cs229-linalg.pdf)<br />
 
 # Calculus
-Used in machine learning (&deep learning) to formulate the functions used to train algorithms to reach their objective, known by loss/cost/objective functions.
-Khan Academy Calculus series (beginner friendly).
-3Blue1Brown Calculus series.
-Second course in Coursera Mathematics for Machine Learning specialization.
-The Matrix Calculus You Need For Deep Learning paper.
-MIT Single Variable Calculus.
-MIT Multivariable Calculus.
-Stanford CS224n Differential Calculus review.
+<br /><br />
+[Khan Academy Calculus series (beginner friendly)](https://www.khanacademy.org/math/multivariable-calculus).<br />
+[3Blue1Brown Calculus series.](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&fbclid=IwAR2tbiSGEvuPqI5RMWvINEFIj88DcobnFX58KWacjPLxTo2VNgTpHHtrUkc)<br />
+[Second course in Coursera Mathematics for Machine Learning specialization.](https://www.coursera.org/specializations/mathematics-machine-learning)<br />
+[The Matrix Calculus You Need For Deep Learning paper.](https://arxiv.org/abs/1802.01528)<br />
+[MIT Single Variable Calculus.](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/?fbclid=IwAR0LKFiV32uCutWWaDFj2J-be7kbt3S6UvXjYqd3Iml_ofwTHMXE96y4m3U)<br />
+[MIT Multivariable Calculus.](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)<br />
+[Stanford CS224n Differential Calculus review.](http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf)<br />
 
 # Statistics and Probability
-Used in data science to analyze and visualize data, in order to discover (infer) helpful insights.
-Khan Academy Statistics and probability series (beginner friendly).
-A visual introduction to probability and statistics, Seeing Theory.
-Intro to Descriptive Statistics from Udacity.
-Intro to Inferential Statistics from Udacity.
-Statistics with R Specialization from Coursera.
-Stanford CS229 Probability Theory review.
+<br /><br />
+[Khan Academy Statistics and probability series (beginner friendly).](https://www.khanacademy.org/math/statistics-probability)<br />
+[A visual introduction to probability and statistics, Seeing Theory.](https://seeing-theory.brown.edu/)<br />
+[Intro to Descriptive Statistics from Udacity.](https://mena.udacity.com/course/intro-to-descriptive-statistics--ud827)<br />
+[Intro to Inferential Statistics from Udacity.](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)<br />
+[Statistics with R Specialization from Coursera.](https://www.coursera.org/specializations/statistics)<br />
+[Stanford CS229 Probability Theory review.](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)<br />
 
 # ***
-Part one of Deep Learning book.
-CMU Math Background for ML course.
-The Math of Intelligence playlist by Siraj Raval.
+[Part one of Deep Learning book.](http://www.deeplearningbook.org/)<br />
+[CMU Math Background for ML course.](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)<br />
+[The Math of Intelligence playlist by Siraj Raval.](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)<br />
