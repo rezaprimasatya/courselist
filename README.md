@@ -11,7 +11,9 @@
 [“Introduction to Applied Linear Algebra — Vectors, Matrices, and Least Squares” book.](https://web.stanford.edu/~boyd/vmls/)
 [MIT Linear Algebra course, highly comprehensive.](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)<br />
 [Stanford CS229 Linear Algebra review.](http://cs229.stanford.edu/section/cs229-linalg.pdf)<br />
-[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)<br />
+[Basic Linear Algebra for Deep Learning](https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23)<br />
+
 
 # Calculus
 <br /><br />
@@ -31,8 +33,11 @@
 [Intro to Inferential Statistics from Udacity.](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)<br />
 [Statistics with R Specialization from Coursera.](https://www.coursera.org/specializations/statistics)<br />
 [Stanford CS229 Probability Theory review.](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)<br />
+[Think Stats 2e](https://greenteapress.com/wp/think-stats-2e/)<br />
+
 
 # Book
+<br />
 [Part one of Deep Learning book.](http://www.deeplearningbook.org/)<br />
 [CMU Math Background for ML course.](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)<br />
 [The Math of Intelligence playlist by Siraj Raval.](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)<br />
@@ -40,3 +45,33 @@
 [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)<br />
 [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.oreilly.com/library/view/pragmatic-ai-an/9780134863924/)<br />
 [Python Machine Learning](https://www.oreilly.com/library/view/python-machine-learning/9781119545637/)<br />
+
+# Course
+<br />
+[Path to a free self-taught education in Data Science!](https://github.com/ossu/data-science)<br />
+[Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)<br />
+[stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)<br />
+[datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera)<br />
+[AmpliGraph](https://github.com/Accenture/AmpliGraph)<br />
+[awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)<br />
+[kglib](https://github.com/graknlabs/kglib)<br />
+[awesome-knowledge-graph](https://github.com/shaoxiongji/awesome-knowledge-graph)<br />
+[Knowledge-Graph-Analysis-Programming-Exercises](https://github.com/SmartDataAnalytics/Knowledge-Graph-Analysis-Programming-Exercises)<br />
+[knowlegegraph-demo](https://github.com/arangoml/knowlegegraph-demo)<br />
+[OpenKE](https://github.com/thunlp/OpenKE)<br />
+[linguist-python](https://github.com/scivision/linguist-python)<br />
+[linguist](https://github.com/douban/linguist)<br />
+[django-linguist](https://github.com/ulule/django-linguist)<br />
+[nlp-python-deep-learning](https://github.com/NirantK/nlp-python-deep-learning)<br />
+[NLP-with-Python](https://github.com/susanli2016/NLP-with-Python)<br />
+[Hands-On-Natural-Language-Processing-with-Python](https://github.com/PacktPublishing/Hands-On-Natural-Language-Processing-with-Python)<br />
+[nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial)<br />
+[text-classification](https://github.com/javedsha/text-classification)<br />
+[20newsgroups-text-classification](https://github.com/yanqiangmiffy/20newsgroups-text-classification)<br />
+[Hidden-Markov-Model-for-NLP](https://github.com/FantacherJOY/Hidden-Markov-Model-for-NLP)<br />
+[text-kmeans-clustering-with-python](https://github.com/MNoorFawi/text-kmeans-clustering-with-python)<br />
+[Text-Clustering](https://github.com/Ruchi2507/Text-Clustering)<br />
+[Text-classification-and-clustering](https://github.com/abhijeet3922/Text-classification-and-clustering)<br />
+[Text-Clustering](https://github.com/sowmyagowri/Text-Clustering)<br />
+[Text-Clustering](https://github.com/AymanKh/Text-Clustering)<br />
+[K-means-Clustering-on-Text-Documents](https://github.com/akanshajainn/K-means-Clustering-on-Text-Documents)<br />
