@@ -32,7 +32,11 @@
 [Statistics with R Specialization from Coursera.](https://www.coursera.org/specializations/statistics)<br />
 [Stanford CS229 Probability Theory review.](http://web.stanford.edu/class/cs224n/readings/cs229-prob.pdf)<br />
 
-# ***
+# Book
 [Part one of Deep Learning book.](http://www.deeplearningbook.org/)<br />
 [CMU Math Background for ML course.](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)<br />
 [The Math of Intelligence playlist by Siraj Raval.](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)<br />
+[Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)<br />
+[Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)<br />
+[Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.oreilly.com/library/view/pragmatic-ai-an/9780134863924/)<br />
+[Python Machine Learning](https://www.oreilly.com/library/view/python-machine-learning/9781119545637/)<br />
