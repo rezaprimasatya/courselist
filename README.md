@@ -76,3 +76,69 @@
 [Text-Clustering](https://github.com/AymanKh/Text-Clustering)<br />
 
 [K-means-Clustering-on-Text-Documents](https://github.com/akanshajainn/K-means-Clustering-on-Text-Documents)<br />
+<br />
+
+# SQL
+<br />
+https://github.com/ahawker/data-analysis-coursera<br />
+https://github.com/secure-data-analysis-data-sharing/data-analysis<br />
+https://github.com/googleanalytics/google-analytics-super-proxy<br />
+https://github.com/triestpa/Cryptocurrency-Analysis-Python<br />
+https://github.com/fenglei110/Data-analysis<br />
+https://github.com/zhichaoluo/DataAnalysis<br />
+https://github.com/arunma/ScalaDataAnalysisCookbook<br />
+https://github.com/TheisTrue/DataAnalysis<br />
+https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook<br />
+https://github.com/realXuJiang/course<br />
+https://github.com/mike-works/sql-fundamentals<br />
+https://github.com/exlskills/course-sql-introduction/tree/master/00_SQL<br />
+https://github.com/ayushi-b/SQL-for-Data-Analysis<br />
+https://github.com/caveofprogramming/mysql-course<br />
+https://github.com/SLPeoples/MySQL-for-Data-Analytics-and-Business-Intelligence<br />
+https://github.com/yanfei-wu/MySQL-Coursera-Duke<br />
+https://github.com/SoftwareIntrospectre/The-Complete-SQL-Bootcamp<br />
+https://github.com/michaelbironneau/analyst<br />
+https://github.com/shankhapaul22/Business-Data-Analysis-with-SQL<br />
+https://github.com/Albertsr/Data-Analysis<br />
+https://github.com/FantasyFootballAnalytics/FantasyFootballAnalyticsR<br />
+https://github.com/susanli2016/Data-Analysis-with-R<br />
+<br />
+
+# PYTHON
+<br />
+https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas<br />
+https://github.com/founderfan/Data-Open-Analysis<br />
+https://github.com/Azure/LearnAnalytics-mr4ds<br />
+https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics<br />
+https://github.com/anabranch/data_analysis_with_python_and_pandas<br />
+https://github.com/apachecn/python_data_analysis_and_mining_action<br />
+https://github.com/yenlung/Python-3-Data-Analysis-Basics<br />
+https://github.com/fonnesbeck/statistical-analysis-python-tutorial<br />
+https://github.com/cuttlefishh/python-for-data-analysis<br />
+<br />
+
+# DATA
+<br />
+https://github.com/Tatvic/RGoogleAnalytics<br />
+https://github.com/pilsung-kang/text-analytics<br />
+https://github.com/justmarkham/python-data-analysis-workshop<br />
+https://github.com/DataScienceSpecialization/Exploratory_Data_Analysis<br />
+https://github.com/PacktPublishing/Mastering-Python-Data-Analysis<br />
+https://github.com/zjdian/data-analysis<br />
+https://github.com/MicrosoftLearning/Essential-Math-for-Data-Analysis<br />
+https://github.com/Echo9573/DataAnalysisbyPython<br />
+https://github.com/MicrosoftLearning/Introduction-to-Data-Analysis-using-Excel<br />
+https://github.com/amangup/data-analysis-bootcamp<br />
+https://github.com/microsoft/Resource-Static-Analysis<br />
+https://github.com/AbdullahAlrhmoun/Data-analysis-learning-projects<br />
+https://github.com/WillKoehrsen/Data-Analysis<br />
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects<br />
+https://github.com/aloctavodia/Doing_bayesian_data_analysis<br />
+https://github.com/udacity/data-analyst<br />
+https://github.com/yenlung/Python-3-Data-Analysis-Basics<br />
+
+<br />
+
+#AI
+<br />
+https://github.com/rezaprimasatya/mlcourse.ai<br />
